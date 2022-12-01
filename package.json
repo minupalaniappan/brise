@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "brise",
+  "name": "@minupalaniappan/brise",
   "author": "Patrick Gotthardt",
   "module": "dist/brise.esm.js",
   "devDependencies": {
@@ -46,5 +46,18 @@
   },
   "dependencies": {
     "@emotion/is-prop-valid": "^0.8.8"
-  }
+  },
+  "description": "A breeze of fresh air when using TailwindCSS.",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minupalaniappan/brise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minupalaniappan/brise/issues"
+  },
+  "homepage": "https://github.com/minupalaniappan/brise#readme"
 }
